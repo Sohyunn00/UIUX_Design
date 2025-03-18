@@ -583,13 +583,13 @@
   .list > .thumbs > img {
     width: 100%;
   }
-}
-/* 푸터 */
-footer .con {
-  box-sizing: border-box;
-  padding: 0 40px;
-  flex-direction: column;
-  gap: 20px;
+  /* 푸터 */
+  footer .con {
+    box-sizing: border-box;
+    padding: 0 40px;
+    flex-direction: column;
+    gap: 20px;
+  }
 }
 @media screen and (max-width: 480px) {
   /* 헤더 */
@@ -843,15 +843,15 @@ footer .con {
   .list > .thumbs > img {
     width: 100%;
   }
-}
-/* 푸터 */
-footer .con {
-  width: 100%;
-  box-sizing: border-box;
-  padding: 0 40px;
-  flex-direction: column;
-  gap: 20px;
-}
-footer p {
-  font-size: 12px;
+  /* 푸터 */
+  footer .con {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 40px;
+    flex-direction: column;
+    gap: 20px;
+  }
+  footer p {
+    font-size: 12px;
+  }
 }

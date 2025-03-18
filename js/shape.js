@@ -192,6 +192,6 @@ document.addEventListener("DOMContentLoaded", (event) => {
         yoyo: true,
         repeat: -1, // infinite
       },
-      "+=0.2"
+      "<"
     );
 });
